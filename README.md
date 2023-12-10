@@ -1,6 +1,5 @@
 # Hola 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 !
 
-![Image Alt Text](man-programmer-is-working-with-laptop-code-vector-20338645.jpeg)
 
 ## Welcome!
 
@@ -15,10 +14,6 @@ Hey there, I'm **Dev Satapara** 👨‍💻, a Computer Science Master's student
 🌱 I’m currently learning **Computer Science** 🤩
 
 💬 Ask me about **Technical Stuff**
-
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/dev-satapara)
-- Email: [dsatapar@stevens.edu](mailto:dsatapar@stevens.edu)
 
 ⚡ Fun fact: I love ANIME
 
