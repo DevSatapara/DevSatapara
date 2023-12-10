@@ -6,7 +6,6 @@
 
 Hey there, I'm **Dev Satapara** 👨‍💻, a Computer Science Master's student at [Stevens Institute of Technology](https://www.stevens.edu/). Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-satapara)!
 
-[![GitHub followers](https://img.shields.io/github/followers/dev-satapara?style=social)](https://github.com/DevSatapara)
 [![Repos Badge](https://badges.pufler.dev/repos/dev-satapara)](https://github.com/dev-satapara?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dev-satapara)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/DevSatapara)
