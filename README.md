@@ -1,6 +1,6 @@
 # Hola 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 !
 
-![Coding](https://www.vectorstock.com/royalty-free-vector/man-programmer-is-working-with-laptop-code-vector-20338645)
+![Image Alt Text](man-programmer-is-working-with-laptop-code-vector-20338645.jpeg)
 
 ## Welcome!
 
