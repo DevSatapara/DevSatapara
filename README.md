@@ -1,6 +1,6 @@
-# Hola 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 ! (👋 Waving hand)
+# Hola 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 !
 
-![Coding](link_to_your_coding_image.gif)
+![Coding](https://www.vectorstock.com/royalty-free-vector/man-programmer-is-working-with-laptop-code-vector-20338645)
 
 ## Welcome!
 
