@@ -1,6 +1,5 @@
 # Hola 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 !
 
-
 ## Welcome!
 
 Hey there, I'm **Dev Satapara** 👨‍💻, a Computer Science Master's student at [Stevens Institute of Technology](https://www.stevens.edu/). Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-satapara)!
